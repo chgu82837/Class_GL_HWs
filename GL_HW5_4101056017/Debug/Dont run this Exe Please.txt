@@ -1,0 +1,1 @@
+Go check out the Release runnable version at ../Release/GL_HW5_4101056017.bat (for windows) or ../OSX_build/GL_HW5_4101056017.sh (for OSX)
